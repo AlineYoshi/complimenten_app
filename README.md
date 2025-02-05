@@ -20,4 +20,4 @@ ping me
 # Authors
 just me
 # Copyright and licence
-You are free to copy and adjust this app!
+You are free to copy and adjust this app! 
